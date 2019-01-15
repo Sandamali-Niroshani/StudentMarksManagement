@@ -1,0 +1,13 @@
+Project Name = StudentMarksManagement
+Database name= school
+Server = Tomcat version 9.0
+IDE = Eclipse 
+Run on Chrome browser 
+
+Note: Run the project with internet connection because I have used CDN bootstrap and jqury. 
+
+How to work : First you need select specific teacher, then display marks of specific teacher.
+
+This is for:
+ 1)Find average marks for each subject  
+ 2)List student marks  with subject which are teaching by specific teacher 
